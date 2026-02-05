@@ -1,6 +1,8 @@
-<h1 align="center">Star-Track </h1>
-
-## 👋 hello
+需要参考：
+[github webhooks](https://docs.github.com/en/webhooks/using-webhooks/creating-webhooks)
+[uv 从零配置 Python](https://blog.csdn.net/2401_86720553/article/details/156489207)
+[github api](https://pygithub.readthedocs.io/en/)
+[TRAE+Doubao-Seed-Code](https://blog.csdn.net/linshantang/article/details/155134458)
 
 Star-Track is a user-friendly utility for tracking GitHub repository statistics.
 
