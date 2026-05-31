@@ -7,6 +7,8 @@
 [git diff](https://www.cnblogs.com/uncleyong/p/17967981)
 [Claude Code](https://blog.csdn.net/qq_20042935/article/details/157643418)
 [huggingface_hub](https://blog.csdn.net/asdurt/article/details/155452779)
+[migrate-to-uv](https://mkniewallner.github.io/migrate-to-uv/)
+[uv工具国内镜像与离线安装实战](https://www.cnblogs.com/ymtianyu/p/19361370)
 
 # Let your code changes get reviewed by AI with codereview-agi
 
